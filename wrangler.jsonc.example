@@ -8,11 +8,5 @@
 	},
 	"triggers": {
 		"crons": ["0 */1 * * *"]
-	},
-	"kv_namespaces": [
-		{
-			"binding": "TAG_STORAGE",
-			"id": "73059f2bf1404d99b8cd3341ae83ccb4"
-		}
-	]
+	}
 }

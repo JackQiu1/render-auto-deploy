@@ -33,6 +33,8 @@ git clone https://github.com/SeqCrafter/render-auto-deploy.git
 
 cd render-auto-deploy
 
+mv wrangler.jsonc.example wrangler.jsonc
+
 npm install
 ```
 

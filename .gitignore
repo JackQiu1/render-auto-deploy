@@ -170,3 +170,5 @@ dist
 .vscode/
 .editorconfig
 .prettierrc
+
+wrangler.jsonc
