@@ -9,4 +9,10 @@
 	"triggers": {
 		"crons": ["0 */1 * * *"]
 	}
+	"kv_namespaces": [
+		{
+			"binding": "TAG_STORAGE",
+			"id": "e3842c18aa9d475a8f5661713899bf0c"
+		}
+	]
 }
