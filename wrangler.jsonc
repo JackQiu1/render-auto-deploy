@@ -8,7 +8,7 @@
 	},
 	"triggers": {
 		"crons": ["0 */1 * * *"]
-	}
+	},
 	"kv_namespaces": [
 		{
 			"binding": "TAG_STORAGE",
